@@ -24,7 +24,11 @@ Need To answer the following Questions :
 # How to Run
 
    1.Navigate to ```cd /vagrang```
+   
    2.Enter ```psql```
+   
    3.connect to the database with \c news
+   
    4.Enter any view from which mentioned
+   
    5.Exit by ```psql```
