@@ -22,8 +22,9 @@ Need To answer the following Questions :
     3.On which days did more than 1% of requests lead to errors?
 
 # How to Run
-    1.Navigate to ```cd /vagrang```
-    2.Enter ```psql```
-    3.connect to the database with \c news
-    4.Enter any view from which mentioned
-    5.Exit by ```psql```
+
+   1.Navigate to ```cd /vagrang```
+   2.Enter ```psql```
+   3.connect to the database with \c news
+   4.Enter any view from which mentioned
+   5.Exit by ```psql```
